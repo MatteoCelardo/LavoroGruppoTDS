@@ -1,0 +1,44 @@
+\section{Olmstead vs USA}
+
+Domande:
+\begin{itemize}
+    \item cosa è successo nei fatti (sintesi per capire cosa sia successo e quindi quale sia il
+        fatto a cui i giudici guardano):
+        il fatto centrale della causa riguarda una vasta cospirazione per violare il national
+        prohibition act e il metodo non tradizionale usato dai funzionari federali per
+        raccogliere le prove a sostegno di tali accuse
+    \item cosa sia successo in diritto, quindi quali siano le questioni giuridiche all'esame dei
+        giudici (tenere in contro che i giudici sono in disaccordo):
+        la questione fondamentale portata davanti alla corte suprema era stabilire se l'uso
+        delle prove ottenute (tramite intercettazione telefonica mediante, wire tapping)
+        costituisse una violazione del quarto (vieta perquisizioni e sequestri irragionevoli, 
+        stabilendo che i mandati devono essere emessi da un giudice e giustificati, supportati 
+        da una dichiarazione) e quinto (diritto a non essere forzati a testimoniare contro 
+        se stessi) emendamento della costituzione.\\
+        Inoltre viene contestato l'articolo 27 del Radio act: una persona non autorizzata dal 
+        mittente non ha diritto a intercettare alcun messaggio e divulgare o pubblicare il
+        contenuto, la sostanza, il significato o l'effetto di tale messaggio intercettato a
+        qualsiasi persona
+    \item elementi ancora attuali (che riguarda l'oggi, che si avvicina al tempo in cui siamo):
+        \begin{itemize}
+            \item intercettazione di comunicazioni private
+            \item futuro delle tecnologie di sorveglianza: nuove tecnologie asservite al governo
+                è probabile che non si fermino a intercettazioni telefoniche
+            \item diritto alla privacy (intesa come diritto a essere lasciati soli)
+            \item etica governativa: la corte suprema ha dato ragione allo stato, promuovendo
+                quindi intercettazioni senza mandato
+            \item prove raccolte illegalmente possano o meno essere usate con valore probatorio
+        \end{itemize}
+    \item aspetti innovativi (cosa rende nuovi i punti di vista trattati nel caso rispetto al
+        suo tempo):
+        \begin{itemize}
+            \item necessità di adattamento delle norme all'evoluzione tecnologica
+                (l'intercettazione telefonica viene equiparata alla violazione della privacy
+                delle comunicazione via lettera)
+            \item futuro delle tecnologie di sorveglianza: nuove tecnologie asservite al governo
+                è probabile che non si fermino a intercettazioni telefoniche
+            \item violazione della privacy senza violare uno spazio fisico
+        \end{itemize}
+\end{itemize}
+
+
