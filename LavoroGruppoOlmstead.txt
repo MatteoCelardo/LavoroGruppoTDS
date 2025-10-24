@@ -1,11 +1,9 @@
-\section{Olmstead vs USA}
-
 Domande:
 \begin{itemize}
     \item cosa è successo nei fatti (sintesi per capire cosa sia successo e quindi quale sia il
         fatto a cui i giudici guardano):
-        il fatto centrale della causa riguarda una vasta cospirazione per violare il national
-        prohibition act e il metodo non tradizionale usato dai funzionari federali per
+        il fatto centrale della causa riguarda il contrabbando di alcol (che violava il national
+        prohibition act) e il metodo non tradizionale usato dai funzionari federali per
         raccogliere le prove a sostegno di tali accuse
     \item cosa sia successo in diritto, quindi quali siano le questioni giuridiche all'esame dei
         giudici (tenere in contro che i giudici sono in disaccordo):
@@ -27,7 +25,8 @@ Domande:
             \item diritto alla privacy (intesa come diritto a essere lasciati soli)
             \item etica governativa: la corte suprema ha dato ragione allo stato, promuovendo
                 quindi intercettazioni senza mandato
-            \item prove raccolte illegalmente possano o meno essere usate con valore probatorio
+            \item prove raccolte illegalmente che non violano la costituzione possano o meno 
+                essere usate con valore probatorio
         \end{itemize}
     \item aspetti innovativi (cosa rende nuovi i punti di vista trattati nel caso rispetto al
         suo tempo):
